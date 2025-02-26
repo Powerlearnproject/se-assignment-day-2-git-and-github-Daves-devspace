@@ -367,11 +367,11 @@ f. Regular Commits:
 g. Branching Strategy:
 - Implement a branching strategy (e.g., Git Flow) to organize work and facilitate parallel development.
 h. Code Reviews:
--Utilize pull requests to enable peer reviews, ensuring code quality and knowledge sharing among team members.
-i. Continuous Integration/Continuous Deployment (CI/CD):
-- Integrate CI/CD pipelines to automate testing and deployment, reducing manual errors and enhancing efficiency.
- j. Documentation:
-- Maintain up-to-date documentation, including a comprehensive README file, to assist current and future collaborators in understanding the project's purpose and setup.
+   Utilize pull requests to enable peer reviews, ensuring code quality and knowledge sharing among team members.
+- Continuous Integration/Continuous Deployment (CI/CD):
+   Integrate CI/CD pipelines to automate testing and deployment, reducing manual errors and enhancing efficiency.
+ - Documentation:
+   Maintain up-to-date documentation, including a comprehensive README file, to assist current and future collaborators in understanding the project's purpose and setup.
 
 
 
